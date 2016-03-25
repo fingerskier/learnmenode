@@ -1,0 +1,17 @@
+{
+  "name": "@fingerskier/how-to-npm",
+  "version": "1.0.1",
+  "description": "nodeschool workshop",
+  "main": "index.js",
+  "dependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "fingerskier",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "http://fingerskier.net/"
+  },
+  "devDependencies": {}
+}
