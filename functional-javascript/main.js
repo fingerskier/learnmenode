@@ -1,7 +1,3 @@
-function getShortMessages(messages) {
-	return messages.filter(function(val, I, arr){
-		return val.length > 50;
-	});
-}
+var count = require('./func8')
 
-module.exports = getShortMessages;
+count(1,2,3);
